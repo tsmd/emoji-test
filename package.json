@@ -1,0 +1,14 @@
+{
+  "name": "emoji-test",
+  "author": "Takayuki Shimada",
+  "license": "MIT",
+  "private": true,
+  "main": "index.ts",
+  "dependencies": {
+    "lodash.uniq": "^4.5.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "typescript": "^3.5.2"
+  }
+}
